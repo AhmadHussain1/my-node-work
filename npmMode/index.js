@@ -1,5 +1,5 @@
 (function () {
-  var a = "ahmad hussain Khan afridi 11";
+  var a = "ahmad hussain Khan afridi 11 i am khan";
   console.log(a);
 })();
 
